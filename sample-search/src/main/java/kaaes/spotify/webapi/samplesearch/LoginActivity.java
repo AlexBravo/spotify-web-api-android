@@ -18,9 +18,9 @@ public class LoginActivity extends Activity {
     private static final String TAG = LoginActivity.class.getSimpleName();
 
     @SuppressWarnings("SpellCheckingInspection")
-    private static final String CLIENT_ID = "8a91678afa49446c9aff1beaabe9c807";
+    private static final String CLIENT_ID = "1d0aea1d2db94e9fadde9e7700c474bb";
     @SuppressWarnings("SpellCheckingInspection")
-    private static final String REDIRECT_URI = "testschema://callback";
+    private static final String REDIRECT_URI = "https://localhost:8123/callback";
 
     private static final int REQUEST_CODE = 1337;
 
